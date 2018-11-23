@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 
 		String rest = "dddddddd";
+		String lilin = "lilin" ;
 		String m1= "hello";
 		String m2 = m1;
 		String m3 = "word";
